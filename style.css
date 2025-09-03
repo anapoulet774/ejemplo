@@ -3,7 +3,7 @@ p{color:white;}
 .enc-green{color:floralwhite;}
 #párrafo{color: brown;}
 body{
-    background-color:#bcb8b1;
+    background-color: #fae0d8;
 }
 
 h1{margin: 0px;
@@ -20,10 +20,9 @@ h2{ text-align: center;
     }
 ul{color:aliceblue;} 
 
-.container-fluid{
-  background-color:white;
-}
+
 
 .navbar-brand{
-  color: #463f3a;
+  color:#fae0d8;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
