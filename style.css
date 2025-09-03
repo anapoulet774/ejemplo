@@ -3,7 +3,7 @@ p{color:white;}
 .enc-green{color:floralwhite;}
 #párrafo{color: brown;}
 body{
-    background-color:black;
+    background-color:#bcb8b1;
 }
 
 h1{margin: 0px;
@@ -14,10 +14,16 @@ p{margin-bottom: 10px;
 }
 
 h2{ text-align: center;
-    color: white;
+    color: #463f3a ;
     margin:0px;
     padding: 0px;
-    border: 3px dashed indigo;
-    height: 50px;}
+    }
 ul{color:aliceblue;} 
-.nav-nav-tabs {background-color: rgb(255, 198, 12);}
+
+.container-fluid{
+  background-color:white;
+}
+
+.navbar-brand{
+  color: #463f3a;
+}
