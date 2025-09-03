@@ -1,0 +1,23 @@
+p{color:white;}
+#enc-3{color: antiquewhite;}  
+.enc-green{color:floralwhite;}
+#párrafo{color: brown;}
+body{
+    background-color:black;
+}
+
+h1{margin: 0px;
+   padding: 10px;
+text-align: center;}
+p{margin-bottom: 10px;
+  padding: 10px;
+}
+
+h2{ text-align: center;
+    color: white;
+    margin:0px;
+    padding: 0px;
+    border: 3px dashed indigo;
+    height: 50px;}
+ul{color:aliceblue;} 
+.nav-nav-tabs {background-color: rgb(255, 198, 12);}
